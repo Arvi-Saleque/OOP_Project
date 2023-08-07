@@ -1,0 +1,257 @@
+Enter Your institution Name
+KUET
+How many Department do you have in your varsity?
+MAX LIMIT 15
+5
+Enter information of Department NO: 1
+Enter Name:
+CSE
+Enter number of seat in :
+1
+Enter information of Department NO: 2
+Enter Name:
+EEE
+Enter number of seat in :
+10
+Enter information of Department NO: 3
+Enter Name:
+BME
+Enter number of seat in :
+10
+Enter information of Department NO: 4
+Enter Name:
+ECE
+Enter number of seat in :
+10
+Enter information of Department NO: 5
+Enter Name:
+CE
+Enter number of seat in :
+10
+                       WELCOME TO KUET ADMISSION PANEL
+                     ----------------------------------
+                                1. Admin Login
+                                2. Student Login
+                                3. Exit
+select your option:1
+                Admin login page
+                -----------------
+Do you already have an account ?[Y/N]
+
+Select your option:N
+
+Please register and then login !
+
+Do you  want to register?[Y/N]
+
+Select your option:Y
+Enter your name:
+alif
+Enter your Email:
+aaa
+Enter your Password:
+q
+Enter your ID:
+10
+do you want to go back to the homepage[Y/N]?
+Y
+                       WELCOME TO KUET ADMISSION PANEL
+                     ----------------------------------
+                                1. Admin Login
+                                2. Student Login
+                                3. Exit
+select your option:1
+                Admin login page
+                -----------------
+Do you already have an account ?[Y/N]
+
+Select your option:Y
+Enter Your Email:
+aaa
+Enter Your Password:
+q
+                       Welcome to Admin Panel
+                       ____________________
+                       1. input student list
+                       2. show institution information
+                       3. Go to HomePage
+Select your option:1
+Enter how many student do want to input?
+2
+Enter Information for Student 1
+Enter Student Name:
+saleque
+Enter Student Father Name:
+father1
+Enter Student Email:
+a
+Enter Student Merit Position:
+1
+Enter Student ID for Login:
+10
+Enter Student Account Password:
+q
+Student Added successfully
+Enter Information for Student 2
+Enter Student Name:
+alif
+Enter Student Father Name:
+father2
+Enter Student Email:
+aa
+Enter Student Merit Position:
+2
+Enter Student ID for Login:
+20
+Enter Student Account Password:
+qq
+Student Added successfully
+Go to Admin Panel?[Y/N]
+Y
+                       Welcome to Admin Panel
+                       ____________________
+                       1. input student list
+                       2. show institution information
+                       3. Go to HomePage
+Select your option:3
+                       WELCOME TO KUET ADMISSION PANEL
+                     ----------------------------------
+                                1. Admin Login
+                                2. Student Login
+                                3. Exit
+select your option:2
+                Student login page
+                -----------------
+Enter Your Login ID
+10
+Enter Your Email:
+a
+Enter Your Password:
+q
+                       Welcome to Student Panel
+                       ____________________
+                       1. Subject Choice
+                       2. Departmental result
+                       3. Show details information
+                       4. Go to HomePage
+Select your option:1
+You can apply for following Department.
+1. Department of CSE
+2. Department of EEE
+3. Department of BME
+4. Department of ECE
+5. Department of CE
+Enter your choice no: 1
+CSE
+ Do you want to add more choice? [Y/N]
+N
+Go to the Student Panel?[Y/N]
+N
+                       WELCOME TO KUET ADMISSION PANEL
+                     ----------------------------------
+                                1. Admin Login
+                                2. Student Login
+                                3. Exit
+select your option:2
+                Student login page
+                -----------------
+Enter Your Login ID
+20
+Enter Your Email:
+aa
+Enter Your Password:
+qq
+                       Welcome to Student Panel
+                       ____________________
+                       1. Subject Choice
+                       2. Departmental result
+                       3. Show details information
+                       4. Go to HomePage
+Select your option:1
+You can apply for following Department.
+1. Department of CSE
+2. Department of EEE
+3. Department of BME
+4. Department of ECE
+5. Department of CE
+Enter your choice no: 1
+CSE
+ Do you want to add more choice? [Y/N]
+Y
+Enter your choice no: 2
+EEE
+ Do you want to add more choice? [Y/N]
+N
+Go to the Student Panel?[Y/N]
+Y
+                       Welcome to Student Panel
+                       ____________________
+                       1. Subject Choice
+                       2. Departmental result
+                       3. Show details information
+                       4. Go to HomePage
+Select your option:2
+Congratulations! you have been Allocated to the department EEE
+Go to the Student Panel?[Y/N]
+Y
+                       Welcome to Student Panel
+                       ____________________
+                       1. Subject Choice
+                       2. Departmental result
+                       3. Show details information
+                       4. Go to HomePage
+Select your option:3
+Name: alif
+Father Name: father2
+Email: aa
+Password: qq
+ID: 20
+Merit Position: 2
+Allocated Department: EEE
+Go to the Student Panel?[Y/N]
+N
+                       WELCOME TO KUET ADMISSION PANEL
+                     ----------------------------------
+                                1. Admin Login
+                                2. Student Login
+                                3. Exit
+select your option:1
+                Admin login page
+                -----------------
+Do you already have an account ?[Y/N]
+
+Select your option:Y
+Enter Your Email:
+aaa
+Enter Your Password:
+q
+                       Welcome to Admin Panel
+                       ____________________
+                       1. input student list
+                       2. show institution information
+                       3. Go to HomePage
+Select your option:2
+Number of Department: 5
+Department of CSE
+Department of EEE
+Department of BME
+Department of ECE
+Department of CE
+Number of Total Seat: 41
+Department of CSE has 1 Seat.
+Department of EEE has 10 Seat.
+Department of BME has 10 Seat.
+Department of ECE has 10 Seat.
+Department of CE has 10 Seat.
+Number of Total Student: 2
+Go to Admin Panel?[Y/N]
+N
+                       WELCOME TO KUET ADMISSION PANEL
+                     ----------------------------------
+                                1. Admin Login
+                                2. Student Login
+                                3. Exit
+select your option:3
+
+Process returned 0 (0x0)   execution time : 0.518 s
+Press any key to continue.
